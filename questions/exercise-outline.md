@@ -39,11 +39,12 @@ of arithmetic operations
 ## Exercise 9 -  Conditional Statements - Part 2
 - Show complex conditional statements
 
-## Exercise 10 - `while` Loops - Part 1
+## Exercise 10 - `while` Loops
 - Show `while` loops
 
-## Exercise 11 -  `while` Loops - Part 2
-- Show how to use `break` and `continue` to exit a `while` loop or skip an iteration
+## Exercise 11 - Modules 
+- Show how to import and use modules from the Python standard library
+- Mainly concerned with use `random` here.
 
 ## Exercise 12 - User-defined functions - Part 1
 - Show how to define a function
@@ -77,4 +78,9 @@ leeway to be creative but also has enough structure to get consistent results.
 ## Exercise 21 - Project 4
 
 
-> At some point, encourage kids to create a folder/`main.py` file for each exercise.
+### Ideas
+
+- At some point, encourage kids to create a folder/`main.py` file for each exercise.
+    - They can submit this along with their work so other students can see the running project.
+- Add docs links to all exercises so students have additional hints.
+- Add links to a running version of all exercises with output so students can poke it while working.
