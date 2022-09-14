@@ -1,17 +1,46 @@
 2022 Code Challenge - Question 01
 
-Displaying data on the screen is important when you're programming. In Python, we display
-data using the `print()` function. You send data into the function inside the `()`. To 
-display text, enclose the text in `"` characters.
+## Explanation 
 
-Here's an example of how to use `print()` to display text on the screen:
+Programs are made up of data. Each piece of data has a type, and we'll focus on 4 data types in the
+first few exercises of this challenge. 
+
+The four data types we'll use are:
+- Strings (`str`)
+- Integers (`int`)
+- Decimal Numbers (`float`)
+- Booleans (`bool`)
+
+Here are examples of each data type:
 
 ```python
-print("Hello, world!")
+"Strings are text data enclosed in double-qoutes"
+'You can also use single-quotes, but we will not in this challenge'
+
+# Comments start with a `#` and can be used to make notes for yourself while programming.
+# We'll use comments a lot in this challenge!
+
+42  # This is an `int`. 
+
+3.14  # This is a `float`.
+
+True   # This is a `bool`.
+False  # And so is this, there are only two `bool` data types: True and False.
 ```
 
-Using what you've learned in the example above, display the following text on the screen:
+## Exercise
 
-```text
-Welcome to the 2022 CodeWizardsHQ Code Challenge!
+Using what you learned in the above *Explanation*, create the following pieces of data:
+1. A `str` containing your first name.
+2. An `int` containing the number of siblings you have.
+3. A `float` representing your height in feet (see if you can figure out the math to get the correct decimal portion!).
+4. A `bool` that represents whether you are hungry at the current moment.
+
+## Answer
+
+```python
+"Daniel"
+3
+6.083
+False
 ```
