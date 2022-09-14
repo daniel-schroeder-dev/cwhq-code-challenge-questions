@@ -25,7 +25,7 @@ Using what you learned in the *Explanation* section, create two variables:
 - `num_books` which holds an `int` representing the number of books you've read in the last 30 days.
 
 Use `f-strings` to create and display a sentence like:
-- "My favorite book is ______`___` and I've read `___` books in the last 30 days."
+- "My favorite book is `___` and I've read `___` books in the last 30 days."
 
 So, if your `favorite_book` is "The Hobbit" and you've read 3 books in the last 30 days, your output would be:
 - "My favorite book is Harry Potter and I've read 3 books in the last 30 days."
