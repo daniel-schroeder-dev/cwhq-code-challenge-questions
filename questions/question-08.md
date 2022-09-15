@@ -46,7 +46,7 @@ else:
 score = 7
 
 if score > 10:
-    # This block only runs if the `score` is more than 10
+    # This block only runs if the `score` is more than 9
     print("Congrats, you've got a really high score!")
 elif score > 5:
     # This block only runs if the score is between 6 and 10
@@ -58,7 +58,62 @@ else:
 
 ## Exercise
 
+Create a simple chatbot which responds to the following questions:
+- What is your name?
+- Who is your creator?
+- What programming language are you written in?
+- Tell me a joke
+
+For any other inquiry, the chatbot should respond with something like: "I don't understand that command, sorry..."
+
+You can display whatever response you like to each question. An example
+of each possible answer the chatbot provides is shown below (you can use
+your own responses though, these are just for an example):
 
 
+### Name response
+```text
+Enter command: What is your name?
+My name is BoorpBazzle9000
+```
 
+### Creator response
+```text
+Enter command: Who is your creator?
+I was created by the great DJS
+```
+
+### Programming language response
+```text
+Enter command: What programming language are you written in?
+The greatest of all programming languages, Python!
+```
+
+### Joke response
+```text
+Enter command: Tell me a joke
+Did you hear about the claustrophobic astronaut? He just needed a little space 😂 🤣 😂 🤣
+```
+
+### Unknown command response
+```text
+Enter command: What is the meaning of life?
+I don't understand that command, sorry...
+```
 ## Answer
+
+
+```python
+question = input("Enter command: ")
+
+if question == "What is your name?":
+    print("My name is BoorpBazzle9000")
+elif question == "Who is your creator?":
+    print("I was created by the great DJS")
+elif question == "What programming language are you written in?":
+    print("The greatest of all programming languages, Python!")
+elif question == "Tell me a joke":
+    print("Did you hear about the claustrophobic astronaut? He just needed a little space 😂 🤣 😂 🤣") 
+else:
+    print("I don't understand that command, sorry...")
+```

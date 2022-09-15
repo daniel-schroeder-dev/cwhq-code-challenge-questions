@@ -39,12 +39,12 @@ of arithmetic operations
 ## Exercise 9 -  Conditional Statements - Part 2
 - Show complex conditional statements
 
-## Exercise 10 - `while` Loops
-- Show `while` loops
-
-## Exercise 11 - Modules 
+## Exercise 10 - Modules 
 - Show how to import and use modules from the Python standard library
 - Mainly concerned with use `random` here.
+
+## Exercise 11 - `while` Loops
+- Show `while` loops
 
 ## Exercise 12 - User-defined functions - Part 1
 - Show how to define a function
