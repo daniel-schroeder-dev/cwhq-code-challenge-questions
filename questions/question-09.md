@@ -75,27 +75,22 @@ medically accurate, but they are close enough for this project):
 > Note: To calculate your resting heart rate, find your pulse and count the number of
 > beats over a 30 second span and then double that number.
 
-## Answer
+Here are a few examples of possible outputs for your program:
 
-```python
-resting_heart_rate = int(input("Enter your resting heart rate (BPM): "))
+### Good heart rate
+```text
+Enter your resting heart rate (BPM): 70
+Your heart health is Good.
+```
 
-heart_health = ""
+### Poor heart rate
+```text
+Enter your resting heart rate (BPM): 90
+Your heart health is Poor.
+```
 
-if resting_heart_rate >= 78 and resting_heart_rate <= 82:
-    heart_health = "Below Average"
-elif resting_heart_rate >= 73 and resting_heart_rate <= 77:
-    heart_health = "Average"
-elif resting_heart_rate >= 69 and resting_heart_rate <= 72:
-    heart_health = "Good"
-elif resting_heart_rate >= 62 and resting_heart_rate <= 68:
-    heart_health = "Great"
-elif resting_heart_rate >= 56 and resting_heart_rate <= 61:
-    heart_health = "Excellent"
-elif resting_heart_rate >= 50 and resting_heart_rate <= 55:
-    heart_health = "Athlete"
-else:
-    heart_health = "Poor"
-
-print(f"Your heart health is {heart_health}.")
+### Excellent heart rate
+```text
+Enter your resting heart rate (BPM): 61
+Your heart health is Excellent.
 ```

@@ -27,12 +27,3 @@ Using what you've learned in the *Explanation*, use each arithmetic operator onc
 
 > Note that an `operand` represents a number and the `operator` represents one of the four arithmetic
 operators.
-
-## Answer
-
-```python
-2 + 4
-4 - 1
-8 / 4
-5 * 3
-```

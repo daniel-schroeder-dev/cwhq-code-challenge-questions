@@ -46,10 +46,10 @@ else:
 score = 7
 
 if score > 10:
-    # This block only runs if the `score` is more than 9
+    # This block only runs if the `score` is more than 10 
     print("Congrats, you've got a really high score!")
 elif score > 5:
-    # This block only runs if the score is between 6 and 10
+    # This block only runs if the score is between 6 and 10 (inclusive)
     print("Not bad, you scored prettty high!")
 else:
     # This block runs for any score 5 or less
@@ -67,8 +67,7 @@ Create a simple chatbot which responds to the following questions:
 For any other inquiry, the chatbot should respond with something like: "I don't understand that command, sorry..."
 
 You can display whatever response you like to each question. An example
-of each possible answer the chatbot provides is shown below (you can use
-your own responses though, these are just for an example):
+of each possible answer the chatbot provides is shown below:
 
 
 ### Name response
@@ -99,21 +98,4 @@ Did you hear about the claustrophobic astronaut? He just needed a little space �
 ```text
 Enter command: What is the meaning of life?
 I don't understand that command, sorry...
-```
-## Answer
-
-
-```python
-question = input("Enter command: ")
-
-if question == "What is your name?":
-    print("My name is BoorpBazzle9000")
-elif question == "Who is your creator?":
-    print("I was created by the great DJS")
-elif question == "What programming language are you written in?":
-    print("The greatest of all programming languages, Python!")
-elif question == "Tell me a joke":
-    print("Did you hear about the claustrophobic astronaut? He just needed a little space 😂 🤣 😂 🤣") 
-else:
-    print("I don't understand that command, sorry...")
 ```
