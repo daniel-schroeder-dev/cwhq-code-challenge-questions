@@ -24,12 +24,3 @@ Welcome to the 2022 CodeWizardsHQ Code Challenge!
 26.2
 False
 ```
-
-## Answer
-
-```python
-print("Welcome to the 2022 CodeWizardsHQ Code Challenge!")
-print(64)
-print(26.2)
-print(False)
-```

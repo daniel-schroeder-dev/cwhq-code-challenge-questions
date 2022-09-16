@@ -35,12 +35,3 @@ Using what you learned in the above *Explanation*, create the following pieces o
 2. An `int` containing the number of siblings you have.
 3. A `float` representing your height in feet (see if you can figure out the math to get the correct decimal portion!).
 4. A `bool` that represents whether you are hungry at the current moment.
-
-## Answer
-
-```python
-"Daniel"
-3
-6.083
-False
-```

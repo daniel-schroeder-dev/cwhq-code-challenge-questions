@@ -43,19 +43,8 @@ An example of a possible program is shown below:
 ```text
 What is your name? Daniel
 How many friends will you be splitting the pizza with? 3
-Each person gets 3.3333333333333335 slices of pizza.
+Each person gets 2.6666666666666665 slices of pizza.
 ```
 
-Note that some decimal numbers (as in the one above) will repeat infinitely, so the output
-may look a bit weird depending on the number of friends you have.
-
-## Answer
-
-```python
-name = input("What is your name? ")
-num_friends = int(input("How many friends will you be splitting the pizza with? "))
-
-num_slices_per_friend = 10 / num_friends
-
-print(f"Each person gets {num_slices_per_friend} slices of pizza.")
-```
+Note that some decimal numbers (as in the one above) will have a repeating decimal portion, so the output
+may look a bit weird depending on the number of friends you are splitting a pizza with.

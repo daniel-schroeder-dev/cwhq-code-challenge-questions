@@ -28,14 +28,4 @@ Use `f-strings` to create and display a sentence like:
 - "My favorite book is `___` and I've read `___` books in the last 30 days."
 
 So, if your `favorite_book` is "The Hobbit" and you've read 3 books in the last 30 days, your output would be:
-- "My favorite book is Harry Potter and I've read 3 books in the last 30 days."
-
-
-## Answer
-
-```python
-favorite_book = "The Hobbit"
-num_books = 3
-
-print(f"My favorite book is {favorite_book} and I've read {num_books} in the last 30 days")
-```
+- "My favorite book is The Hobbit and I've read 3 books in the last 30 days."
