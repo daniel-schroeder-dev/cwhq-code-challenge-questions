@@ -26,6 +26,13 @@ current_job = "Curriculum Developer"
 height_in_feet = 6.1
 ```
 
+## Further Reading
+
+If you need more information on variables, check out these resources:
+-   [CWHQ Docs - Variables](https://docs.codewizardshq.com/python/python-language/#variables)
+-   [Real Python - Variables in Python](https://realpython.com/python-variables/)
+-   [Think Python - Variables, expressions and statements](https://greenteapress.com/thinkpython2/html/thinkpython2003.html)
+
 ## Exercise
 
 Using what you've learned in the above *Explanation*, create the following variables:

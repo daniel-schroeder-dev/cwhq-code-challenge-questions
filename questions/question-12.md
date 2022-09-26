@@ -83,6 +83,15 @@ generate_arithmetic_expression()  # 5 / 1
 generate_arithmetic_expression()  # 4 - 7
 ```
 
+## Further Reading
+
+If you're interested in more information about user-defined functions, see these resources:
+-   [CWHQ Docs - User-defined functions](https://docs.codewizardshq.com/python/python-language/#user-defined-functions)
+-   [Real Python - Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/)
+-   [The Python Tutorial - Defining Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+-   [Think Python - Functions](https://greenteapress.com/thinkpython2/html/thinkpython2004.html)
+-   [Think Python - Fruitful Functions](https://greenteapress.com/thinkpython2/html/thinkpython2007.html)
+
 ## Exercise
 
 Using what you've learned about function definitions, move all of you Chatbot

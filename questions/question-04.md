@@ -18,6 +18,12 @@ print(about_me)  # My name is Daniel and I am 36 years old.
 print(f"My name is {my_name} and I am {my_age} years old.")
 ```
 
+## Further Reading
+
+If you need more information on `f-strings`, check out these resources:
+- [CWHQ Docs - String Interpolation](https://docs.codewizardshq.com/python/python-language/#string-interpolation)
+- [Real Python - Python 3's `f-strings`](https://realpython.com/python-f-strings/)
+
 ## Exercise
 
 Using what you learned in the *Explanation* section, create two variables:

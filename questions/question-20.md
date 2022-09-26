@@ -57,6 +57,15 @@ is_active -> True
 year_joined -> 2020
 ```
 
+## Further Reading
+
+If you're interested in more information on dictionaries, see these resources:
+-   [CWHQ Docs - `dict`](https://docs.codewizardshq.com/python/python-language/#dict)
+-   [Real Python - Dictionaries in Python](https://realpython.com/python-dicts/)
+-   [The Python Library Reference - Mapping Types: `dict`](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+-   [The Python Tutorial - Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+-   [Think Python - Dictionaries](https://greenteapress.com/thinkpython2/html/thinkpython2012.html)
+
 
 ## Exercise
 

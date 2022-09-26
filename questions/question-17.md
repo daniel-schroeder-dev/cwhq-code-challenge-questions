@@ -70,6 +70,16 @@ $3
 
 This technique is called a *mapping* between the lists.
 
+## Further Reading
+
+If you're interested in more information about looping through `lists`, see these resources:
+-   [CWHQ Docs - Looping through a `list`](https://docs.codewizardshq.com/python/python-language/#looping-through-a-list)
+-   [CWHQ Docs - `for`](https://docs.codewizardshq.com/python/python-language/#for)
+-   [Real Python - Python `for` Loops](https://realpython.com/python-for-loop/)
+-   [The Python Tutorial - `for` Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+-   [Think Python - Traversal with a `for` loop](https://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec94)
+
+
 ## Exercise
 
 Using what you've learned about looping through lists, create a program

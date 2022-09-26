@@ -37,6 +37,16 @@ friends[3] = "Sherri"
 print(friends)  # ["Django", "Lis", "Ryan", "Sherri"]
 ```
 
+## Further Reading
+
+If you're interested in more information about `lists`, see these resources:
+-   [CWHQ Docs - `list`](https://docs.codewizardshq.com/python/python-language/#list)
+-   [The Python Library Reference - Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
+-   [The Python Library Reference - Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
+-   [The Python Library Reference - `len()`](https://docs.python.org/3/library/functions.html#len)
+-   [The Python Tutorial - Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+-   [Think Python - Lists](https://greenteapress.com/thinkpython2/html/thinkpython2011.html)
+
 ## Exercise
 
 Using what you've learned about adding, removing, and updating items in a `list`, create a program

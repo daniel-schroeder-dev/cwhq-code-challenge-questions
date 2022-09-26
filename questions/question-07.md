@@ -28,6 +28,12 @@ total = number1 + number2
 print(f"{number1} + {number2} = {total}")
 ```
 
+## Further Reading
+
+If you need more information on getting user input, see these resources:
+- [CWHQ Docs - `input()`](https://docs.codewizardshq.com/python/python-language/#input)
+- [Real Python - Basic Input, Output, and String Formatting in Python](https://realpython.com/python-input-output/)
+
 ## Exercise
 
 You've been hired to create an app that let's users know how to evenly divide a pizza

@@ -55,6 +55,21 @@ else:
     print("Some rides will be off limits for you...")
 ```
 
+## Further Reading
+
+If you're interested in more material about *Logical Operators* and *Complex Conditional Statements*, see these resources:
+-   [CWHQ Docs - Conditional Statements](https://docs.codewizardshq.com/python/python-language/#nested-conditional-statements)
+-   [Real Python - Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
+-   [Real Python - Using the `not` Boolean Operator in Python](https://realpython.com/python-not-operator/)
+-   [Real Python - Using the `and` Boolean Operator in Python](https://realpython.com/python-and-operator/)
+-   [Real Python - How to use the Python `or` Operator ](https://realpython.com/python-or-operator/)
+-   [The Python Library Reference - Boolean Operations](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
+-   [The Python Library Reference - Boolean Values](https://docs.python.org/3/library/stdtypes.html#boolean-values)
+-   [The Python Library Reference - Comparisons](https://docs.python.org/3/library/stdtypes.html#comparisons)
+-   [The Python Library Reference - Truth Value Testing](https://docs.python.org/3/library/stdtypes.html#truth-value-testing)
+-   [The Python Tutorial - `if` Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+-   [Think Python - Conditionals and Recursion](https://greenteapress.com/thinkpython2/html/thinkpython2006.html)
+
 ## Exercise
 
 Using what you've learned about *Logical Operators* and *Complex Conditional Statements*, create

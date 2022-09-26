@@ -56,6 +56,16 @@ else:
     print("That's a pretty low score...")
 ```
 
+## Further Reading
+
+If you're interested in more material about conditional statements, see these resources:
+-   [CWHQ Docs - Conditional Statements](https://docs.codewizardshq.com/python/python-language/#conditional-statements)
+-   [Real Python - Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
+-   [The Python Library Reference - Comparisons](https://docs.python.org/3/library/stdtypes.html#comparisons)
+-   [The Python Library Reference - Truth Value Testing](https://docs.python.org/3/library/stdtypes.html#truth-value-testing)
+-   [The Python Tutorial - `if` Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+-   [Think Python - Conditionals and Recursion](https://greenteapress.com/thinkpython2/html/thinkpython2006.html)
+
 ## Exercise
 
 Create a simple chatbot which responds to the following questions:
