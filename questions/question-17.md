@@ -1,4 +1,4 @@
-# 2022 Code Challenge - Question 17 
+# 2022 Code Challenge - Question 17 - Using `for` Loops
 
 ## Explanation
 

@@ -1,4 +1,4 @@
-# 2022 Code Challenge - Question 01
+# 2022 Code Challenge - Question 01 - Data Types
 
 ## Explanation 
 

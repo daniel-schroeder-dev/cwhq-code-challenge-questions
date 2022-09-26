@@ -1,4 +1,4 @@
-# 2022 Code Challenge - Question 18 
+# 2022 Code Challenge - Question 18 - Counter-Controlled Repetition
 
 ## Explanation
 

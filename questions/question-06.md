@@ -1,4 +1,4 @@
-# 2022 Code Challenge - Question 06 
+# 2022 Code Challenge - Question 06  - Arithmetic Tables
 
 ## Explanation
 
