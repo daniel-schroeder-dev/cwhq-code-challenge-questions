@@ -58,6 +58,13 @@ Guess a word that is a reptile and a programming language: Python
 That's correct!
 ```
 
+## Further Reading
+
+If you're interested in further information about `while` loops, see the following resources:
+-   [CWHQ Docs - `while`](https://docs.codewizardshq.com/python/python-language/#while)
+-   [Real Python - Python `while` Loops](https://realpython.com/python-while-loop/)
+-   [Think Python - The `while` statement](https://greenteapress.com/thinkpython2/html/thinkpython2008.html#sec84)
+
 ## Exercise
 
 Using a `while` loop, implement the game from the previous exercise but edit it

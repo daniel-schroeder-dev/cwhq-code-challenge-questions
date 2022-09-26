@@ -20,6 +20,13 @@ Here's an example of each operator in use:
 10 * 3
 ```
 
+## Further Reading
+
+If you need more information on the basic arithmetic operators, see these resources:
+-   [CWHQ Docs - Arithmetic Operators](https://docs.codewizardshq.com/python/python-language/#arithmetic-operators)
+-   [The Python Tutorial - Numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)
+-   [Real Python - Numbers in Python](https://realpython.com/python-numbers/)
+
 ## Exercise
 
 Using what you've learned in the *Explanation*, use each arithmetic operator once in the form:

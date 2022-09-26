@@ -55,6 +55,15 @@ total = add(3, 4)
 print(total)  # 7
 ```
 
+## Further Reading
+
+If you're interested in more information about functions in Python, see the following resources:
+-   [CWHQ Docs - User-defined functions](https://docs.codewizardshq.com/python/python-language/#user-defined-functions)
+-   [Real Python - Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/)
+-   [The Python Tutorial - Defining Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+-   [Think Python - Functions](https://greenteapress.com/thinkpython2/html/thinkpython2004.html)
+-   [Think Python - Fruitful Functions](https://greenteapress.com/thinkpython2/html/thinkpython2007.html)
+
 ## Exercise
 
 Using what you've learned about function parameters/arguments and returning values from

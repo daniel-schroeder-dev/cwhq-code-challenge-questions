@@ -14,6 +14,12 @@ print(3.14)
 print(True)  # Remember, this is a `bool`, it doesn't need quotes.
 ```
 
+## Further Reading
+
+If you're interested in more information about displaying data, check out these resources:
+- [CWHQ Docs - `print()`](https://docs.codewizardshq.com/python/python-language/#print)
+- [Real Python - Your Guide to the Python `print()` Function](https://realpython.com/python-print/)
+
 ## Exercise
 
 Using what you've learned in the *Explanation* above, display the following text on the screen:

@@ -47,6 +47,15 @@ for num in range(1, 4):
 Note that the first argument to `range()` is the starting value, and the last argument is one
 more than the final printed value.
 
+## Further Reading
+
+If you're interested in more information about counter-controlled looping, see these resources:
+-   [CWHQ Docs - `for`](https://docs.codewizardshq.com/python/python-language/#for)
+-   [Real Python - Python `for` Loops](https://realpython.com/python-for-loop/)
+-   [The Python Tutorial - `for` Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)
+-   [The Python Tutorial - The `range()` function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
+-   [Think Python - Traversal with a `for` loop](https://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec94)
+
 ## Exercise
 
 Using what you've learned about counter-controlled looping, create an implementation of the dice

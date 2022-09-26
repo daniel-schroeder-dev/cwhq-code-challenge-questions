@@ -22,6 +22,12 @@ from random import randint
 random_number = randint(1, 10)  # Generates a random number between 1 and 10
 ```
 
+## Further Reading
+
+If you're interested in more information on Python's built-in modules, see these resources:
+- [CWHQ Docs - Built-in Modules](https://docs.codewizardshq.com/python/python-language/#built-in-modules)
+- [Real Python - Python Modules and Packages - An Introduction](https://realpython.com/python-modules-packages/)
+
 ## Exercise
 
 Using the `randint()` function from the `random` module, implement the following

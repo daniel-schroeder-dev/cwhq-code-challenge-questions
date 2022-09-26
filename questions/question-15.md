@@ -78,6 +78,13 @@ print(f"There are {num_friends} friends in my friends list.")  # There are 4 fri
 
 There are many more interesting things you can do with a `list`, but that's enough for now!
 
+## Further Reading
+
+If you're interested in more information on `lists`, see these resources:
+-   [CWHQ Docs - `list`](https://docs.codewizardshq.com/python/python-language/#list)
+-   [The Python Tutorial - Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+-   [Think Python - Lists](https://greenteapress.com/thinkpython2/html/thinkpython2011.html)
+
 
 ## Exercise
 
