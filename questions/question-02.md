@@ -30,3 +30,7 @@ Welcome to the 2022 CodeWizardsHQ Code Challenge!
 26.2
 False
 ```
+
+## Project Link
+
+For a running version of this project, see [exercise_02](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_02/main.py)

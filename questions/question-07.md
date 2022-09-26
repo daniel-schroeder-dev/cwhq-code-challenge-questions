@@ -54,3 +54,8 @@ Each person gets 2.6666666666666665 slices of pizza.
 
 Note that some decimal numbers (as in the one above) will have a repeating decimal portion, so the output
 may look a bit weird depending on the number of friends you are splitting a pizza with.
+
+
+## Project Link
+
+For a link to the running project, see [exercise_07](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_07/main.py)

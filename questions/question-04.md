@@ -35,3 +35,7 @@ Use `f-strings` to create and display a sentence like:
 
 So, if your `favorite_book` is "The Hobbit" and you've read 3 books in the last 30 days, your output would be:
 - "My favorite book is The Hobbit and I've read 3 books in the last 30 days."
+
+## Project Link
+
+For a view of the running project, see [exercise_04](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_04/main.py)

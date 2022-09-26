@@ -73,3 +73,7 @@ Here's an example of how the output could look:
     10 / 5 = 2.0
     ------------
 ```
+
+## Project Link
+
+For a look at the running project, see [exercise_06](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_06/main.py)

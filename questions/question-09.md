@@ -109,3 +109,7 @@ Your heart health is Poor.
 Enter your resting heart rate (BPM): 61
 Your heart health is Excellent.
 ```
+
+## Project Link
+
+For a link to the running project, see [exercise_09](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_09/main.py)

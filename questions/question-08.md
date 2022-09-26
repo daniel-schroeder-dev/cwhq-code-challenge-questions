@@ -109,3 +109,7 @@ Did you hear about the claustrophobic astronaut? He just needed a little space ð
 Enter command: What is the meaning of life?
 I don't understand that command, sorry...
 ```
+
+## Project Link
+
+For a link to the running project, see [exercise_08](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_08/main.py)

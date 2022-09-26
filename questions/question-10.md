@@ -62,3 +62,7 @@ What do you think the second number is? 3
 That's correct! You win $100.
 The numbers were 8 + 3 = 11
 ```
+
+## Project Link
+
+For a link to the running project, see: [exercise_10](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_10/main.py)
