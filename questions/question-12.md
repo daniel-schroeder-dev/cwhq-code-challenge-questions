@@ -121,3 +121,8 @@ Did you hear about the claustrophobic astronaut? He just needed a little space ð
 Do you want to (1) run the chatbot or (2) exit the program? 2
 Goodbye!
 ```
+
+## Project Link
+
+For a link to the running project, see: [exercise_12](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_12/main.py)
+    

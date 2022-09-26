@@ -148,3 +148,8 @@ Here's your current shopping cart: ['XBox20']
 Goodbye!
 ```
 
+
+## Project Link
+
+For a link to the running project, see: [exercise_16](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_16/main.py)
+    

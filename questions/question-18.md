@@ -230,3 +230,8 @@ Computer rolls 3
 Computer rolls 2
 Player loses, computer wins!
 ```
+
+## Project Link
+
+For a link to the running project, see: [exercise_18](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_18/main.py)
+    

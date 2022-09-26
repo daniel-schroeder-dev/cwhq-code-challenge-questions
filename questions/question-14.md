@@ -147,3 +147,8 @@ Player wins!
 > Note that you could go further with this project by personalizing the app using the player's name (you'd need to prompt them for this).
 > You could also ensure that if both the player and the computer score over 100 in the same round, there's a tie breaker of some sort that determines who should win (you could use whoever had the highest score)
 
+
+## Project Link
+
+For a link to the running project, see: [exercise_14](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_14/main.py)
+    
