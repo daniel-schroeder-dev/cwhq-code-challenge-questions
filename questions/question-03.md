@@ -16,6 +16,7 @@ True
 
 Using a variable, we can give a *name* to each piece of data that lets the programmer
 know what the data represents. You create a variable using the assignment operator (`=`).
+Variable names are usually all lowercase and multi-word variables are separated by a `_`.
 
 Here are the same pieces of data from the example above with good variable names:
 
