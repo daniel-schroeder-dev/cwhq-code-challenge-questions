@@ -3,10 +3,7 @@
 ## Explanation
 
 Congratulations on making it to the final question of this challenge! To test your knowledge
-of Python and basic programming concepts, in this exercise we'll implement a card game called
-"Matchmaker". There are a few techniques you can use (which we haven't learned throughout this challenge)
-to implement this game. All of them revolve around manipulating lists in some way, as you'll create 
-a list of `dict` representing a deck of cards in this challenge.
+of Python and basic programming concepts, in this exercise we'll implement a card game called "Matchmaker". There are a few techniques you can use (which we haven't learned throughout this challenge) to implement this game. All of them revolve around manipulating lists in some way, as you'll create a list of `dict` representing a deck of cards in this challenge.
 
 To get a random item from a list, you can use the `choice()` function from the `random` module:
 
@@ -80,10 +77,7 @@ for index, name in enumerate(names):
 
 ## Exercise
 
-The rules of "Matchmaker" are simple. Using a shuffled deck, each player gets to pick two cards
-each round. If the cards are a match, the player keeps the cards and they are removed from the deck.
-Once the deck is empty, the game ends. The player with the most cards wins. You'll have one human
-player and one computer player in your implementation of this game.
+The rules of "Matchmaker" are simple. Using a shuffled deck, each player gets to pick two cards each round. If the ranks of the cards (the numeric values) are a match, the player keeps the cards and they are removed from the deck. Once the deck is empty, the game ends. The player with the most cards wins. You'll have one human player and one computer player in your implementation of this game.
 
 Hints:
 - Import the `shuffle` and `choice` functions from the `random` module
@@ -92,14 +86,13 @@ Hints:
         - diamonds, hearts, clubs, spades
     - Creates an empty `deck` `list`
     - Loops through the `list` of `suits`
-        - Loops through the numbers 1 thru 10. These are the ranks (this is nested inside the `suits` loop)
+        - Loops through the numbers 1 thru 10. These are the ranks (this is nested inside the `suits` loop). Note that we aren't using Jack/Queen/King here, but you could add this if you wanted to (the running example project does).
             - Builds a `card` `dict` from the suit and rank
             - Appends the `card` `dict` to the `deck`
     - The function should return the `deck` after it's built
 - Make a helper function called `display_deck(deck)`
     - This should loop through all cards in the `deck` and display them along with their index number
-    - You'll only use this for developing/testing your game, you shouldn't display this information
-    when someone is actually playing the game
+    - You'll only use this for developing/testing your game, you shouldn't display this information when someone is actually playing the game
 - Make a function called `display_cards(player_name, cards)`
     - This function should display the player's name and loop and display all of the `cards` in a nicely formatted way
 
@@ -145,6 +138,8 @@ Hints:
     - Otherwise, it's a tie and display: "It's a tie!"
 
 Example output:
+
+> Note, this example uses an 8-card deck with ranks 1-4 and only hearts/diamonds as suits. This is so you can quickly see the win/lose conditions. You can do the same while developing the app to test things out!
 
 ```text
 
@@ -267,4 +262,8 @@ Player wins!
 ## Project Link
 
 For a link to the running project, see: [exercise_21](https://projects.pty.cwhq-apps.com/?filename=/code-challenge-2022/exercise_21/main.py)
-    
+
+
+<hr>
+
+If you need help understanding how to submit your answer, see: https://forum.codewizardshq.com/t/how-to-submit-answers/20207

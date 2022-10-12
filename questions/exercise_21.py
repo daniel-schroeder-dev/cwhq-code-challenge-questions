@@ -7,16 +7,24 @@ def display_deck(deck):
 
 
 def create_deck():
-    suits = ["diamonds", "hearts"]
+    suits = ["diamonds", "hearts", "clubs", "spades"]
+    royal_ranks = ["jack", "queen", "king"]
 
     deck = []
     for suit in suits:
-        for rank in range(1, 5):
+        for rank in range(1, 11):
             card = {
                 "suit": suit,
                 "rank": rank,
             }
             deck.append(card)
+        for rank in royal_ranks: 
+            card = {
+                "suit": suit,
+                "rank": rank,
+            }
+            deck.append(card)
+
 
     return deck
 
@@ -93,3 +101,4 @@ elif len(computer_cards) > len(player_cards):
     print("Computer wins!")
 else:
     print("It's a tie!")
+
